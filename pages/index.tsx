@@ -10,14 +10,14 @@ export default function Home() {
         <title>Siddhant Srivastava</title>
         </Head>
         <Header />
-      //hero
+      {/* //hero
       //about
       //projects
       //experience
       //skills
       //Tech blogs
       //contact
-      //Download resume
+      //Download resume */}
     </div>
   )
 }
